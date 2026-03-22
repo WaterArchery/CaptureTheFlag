@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+/out/
+/target/
+**/target
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Maven
+/logs/
+/.mvn/
+
+# Java class files
+*.class
+
+# Other
+*.swp
+*.swo
+
+/run
+
+
+# Project exclude paths
+/.gradle/
+/build/
