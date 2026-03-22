@@ -7,7 +7,10 @@ import me.waterarchery.ctf.model.player.CtfPlayer;
 import me.waterarchery.ctf.model.player.CtfPlayerTeam;
 import me.waterarchery.ctf.model.player.constant.GameTeam;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.UUID;
 
 @Setter
 @Getter

@@ -3,7 +3,6 @@ package me.waterarchery.ctf.model.game;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.util.NumberConversions;
-import org.bukkit.util.Vector;
 import org.jetbrains.annotations.NotNull;
 
 public record GameLocation(String world, double x, double y, double z, float yaw, float pitch) {
